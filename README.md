@@ -9,7 +9,6 @@ A simple Java program to check the strength of a password based on several crite
 - [Usage](#usage)
 - [Strength Criteria](#strength-criteria)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Checks the strength of a password based on multiple criteria.
